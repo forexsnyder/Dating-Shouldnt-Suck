@@ -1,4 +1,4 @@
-# Happily-Ever-After
+# Dating Shouldn't Suck
 
 ## Overview
 
@@ -36,29 +36,27 @@ TBD
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views. No hand-drawn wireframes. Use a tool like wireframe.cc, Whimsical or AdobeXD
-
-![DT Link](https://wireframe.cc/vIthRu)
+![https://wireframe.cc/vIthRu](https://wireframe.cc/vIthRu)
 
 - Desktop Landing
 
-![DT Link](https://wireframe.cc/UMcJui)
-
--Resource Show
-
-![Dummy Link](url)
-
-- Resource Index
-
-![Dummy Link](url)
+![https://wireframe.cc/UMcJui](https://wireframe.cc/UMcJui)
 
 - Resource Show
 
-![Dummy Link](url)
+![https://wireframe.cc/S94X41](https://wireframe.cc/S94X41)
+
+- Resource Create
+
+![https://wireframe.cc/zHNQ0H](https://wireframe.cc/zHNQ0H)
+
+- Resource Update/Delete
+
+![https://wireframe.cc/vIthRu](https://wireframe.cc/vIthRu)
 
 - Tablet Resource Index
 
-![Dummy Link](url)
+![https://wireframe.cc/jBSaVx](https://wireframe.cc/jBSaVx)
 
 - Mobile Resource Index
 
@@ -116,13 +114,20 @@ src
 
 > Use this section to display an image of a computer generated ERD model. You can use draw.io, Lucidchart or another ERD tool.
 
+![alt text](http://url/to/img.png)
+
 <br>
 
 ***
 
 ## Post-MVP
 
-> Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
+- _Carousel of images on main page._
+- _User Authentiation required for editing._
+- _Map image accompanied of date idea._
+- _Pop-up clickable buttons/images._
+- _Tracking star rankings of total users for each date idea._
+- _User first browse symbols for diff dating idea categories._
 
 ***
 
