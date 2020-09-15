@@ -60,51 +60,69 @@ TBD
 
 - Mobile Resource Index
 
+<br>
+
 #### Component Tree
-
-> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
-
-#### Component Hierarchy
-
-> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like. 
 
 ``` structure
 
 src
-|__ assets/
-      |__ fonts
-      |__ graphics
-      |__ images
-      |__ mockups
-|__ components/
-      |__ Header.jsx
-|__ services/
-
+|__ Components
+      |__ Layout
+            |__ Header
+            |__ Nav
+            |__ Footer
+      |__Date_Idea
+      |__ Createpage
+      |__ Editpage
+      |__ Search
+|__ Screens
+      |__ Homepage
+      |__ Summary
+      |__ Review
+      |__ Create
+      |__ Edit
+|__ Services
+      |__ Api-config
+      |__ Auth
+      |__ Sort
 ```
+
+<br>
 
 #### Component Breakdown
 
-> Use this section to go into further depth regarding your components, including breaking down the components as stateless or stateful, and considering the passing of data between those components.
 
-|  Component   |    Type    | state | props | Description                                                      |
-| :----------: | :--------: | :---: | :---: | :--------------------------------------------------------------- |
-|    Header    | functional |   n   |   n   | _The header will contain the navigation and logo._               |
-|  Navigation  | functional |   n   |   n   | _The navigation will provide a link to each of the pages._       |
-|   Gallery    |   class    |   y   |   n   | _The gallery will render the posts using cards in flexbox._      |
-| Gallery Card | functional |   n   |   y   | _The cards will render the post info via props._                 |
-|    Footer    | functional |   n   |   n   | _The footer will show info about me and a link to my portfolio._ |
+|  Component   |    Type    | state | props |                              Description                                             |
+| :----------: | :--------: | :---: | :---: | :----------------------------------------------------------------------------------: |
+|    Header    | functional |   n   |   y   | _The header will contain the navigation, logo, and search.                        ._ |
+|  Navigation  | functional |   n   |   y   | _The navigation will provide a link to the Create pages.                          ._ |
+|    Footer    | functional |   n   |   y   | _The footer will render the logo and link to contact info.                        ._ |
+|    Layout    | functional |   n   |   y   | _The layout will render header,footer, and navigation the post info via props.    ._ |
+|    Date_Idea | functional |   y   |   n   | _The date idea will show info about the author and date review on the summary page._ |
+|    Create    | functional |   n   |   n   | _The create will show info on how to upload image and write a review for user.    ._ |
+|    Edit      | functional |   n   |   n   | _The edit will will allow users to edit each review of date idea.                 ._ |
+|    Search    | functional |   n   |   n   | _The search bar will display on Home page and in the header on subsequent pages.  ._ |
+
+<br>
 
 #### Time Estimates
 
-> Use this section to estimate the time necessary to build out each of the components you've described above.
 
-| Task                | Priority | Estimated Time | Time Invested | Actual Time |
-| ------------------- | :------: | :------------: | :-----------: | :---------: |
-| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
-
-> _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evaluate possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
+|              Task                   | Priority | Estimated Time | Time Invested | Actual Time |
+| :---------------------------------: | :------: | :------------: | :-----------: | :---------: |
+| Create Ruby file structure          |    H     |     4 hrs      |     TBD       |     TBD     |
+| Create Seed data                    |    H     |     2 hrs      |     TBD       |     TBD     |
+| Migrate models                      |    H     |     2 hrs      |     TBD       |     TBD     |
+| Code backend server files           |    H     |     5 hrs      |     TBD       |     TBD     |
+| Create Back End CRUD Actions        |    H     |     3 hrs      |     TBD       |     TBD     |
+| Create React Components             |    H     |     4 hrs      |     TBD       |     TBD     |
+| Create Front End CRUD Actions       |    H     |     6 hrs      |     TBD       |     TBD     |
+| Develop client side routing         |    H     |     3 hrs      |     TBD       |     TBD     |
+| CSS styling with flexbox            |    H     |     7 hrs      |     TBD       |     TBD     |
+| Responsive design for media query   |    H     |     4 hrs      |     TBD       |     TBD     |
+| Deployment management and testing   |    H     |     3 hrs      |     TBD       |     TBD     |
+| TOTAL                               |          |     44 hrs     |     TBD       |     TBD     |
 
 <br>
 
@@ -112,9 +130,7 @@ src
 
 #### ERD Model
 
-> Use this section to display an image of a computer generated ERD model. You can use draw.io, Lucidchart or another ERD tool.
-
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)????
 
 <br>
 
@@ -123,17 +139,22 @@ src
 ## Post-MVP
 
 - _Carousel of images on main page._
+- _Incorporate grid styling on front end._
 - _User Authentiation required for editing._
 - _Map image accompanied of date idea._
 - _Pop-up clickable buttons/images._
 - _Tracking star rankings of total users for each date idea._
 - _User first browse symbols for diff dating idea categories._
+- _Make hamburger menu and overlapping nav bar for media queries._
 
 ***
+<br>
 
 ## Code Showcase
 
 TBD
+
+<br>
 
 ## Code Issues & Resolutions
 
