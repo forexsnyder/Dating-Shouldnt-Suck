@@ -38,7 +38,7 @@ TBD
 
 #### Wireframes
 
-![https://wireframe.cc/vithru]
+![https://wireframe.cc/vIthRu]
 
 - Desktop Landing
 
