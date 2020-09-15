@@ -42,23 +42,23 @@ TBD
 
 - Desktop Landing
 
-![https://wireframe.cc/UMcJui](https://wireframe.cc/UMcJui)
+![https://wireframe.cc/UMcJui]
 
 - Resource Show
 
-![https://wireframe.cc/S94X41](https://wireframe.cc/S94X41)
+![https://wireframe.cc/S94X41]
 
 - Resource Create
 
-![https://wireframe.cc/zHNQ0H](https://wireframe.cc/zHNQ0H)
+![https://wireframe.cc/zHNQ0H]
 
 - Resource Update/Delete
 
-![https://wireframe.cc/vIthRu](https://wireframe.cc/vIthRu)
+![https://wireframe.cc/vIthRu]
 
 - Tablet Resource Index
 
-![https://wireframe.cc/jBSaVx](https://wireframe.cc/jBSaVx)
+![https://wireframe.cc/jBSaVx]
 
 - Mobile Resource Index
 
