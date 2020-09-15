@@ -4,7 +4,7 @@
 
 ## Overview
 
-_**Dating Shouldn't Suck** is an app that helps singles add spice to their dating lives and avoid the monotonous dinner or drink at a bar. Dating Shouldn't Suck (DSS) is a full stack application where users have full CRUD capabilities to share their favorite date ideas along with personal reviews. Its the Yelp of Dating! Let's face it, dating in today's world is hard and overwhelming but it, here at DSS, we believe it doesn't have to suck!._
+_**Dating Shouldn't Suck** is an app that helps singles add spice to their dating lives and avoid the monotonous dinner or drink at a bar. Dating Shouldn't Suck (DSS) is a full stack application where users have full CRUD capabilities to share their favorite date ideas along with personal reviews. Its the Yelp of Dating! Let's face it, dating in today's world is hard and overwhelming but, here at DSS, we believe it doesn't have to suck!._
 
 
 <br>
