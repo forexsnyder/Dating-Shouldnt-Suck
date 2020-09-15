@@ -132,7 +132,7 @@ src
 
 #### ERD Model
 
-![https://wireframe.cc/jBSaVx](https://app.diagrams.net/)
+![https://github.com/kaisha2004/Dating-Shouldnt-Suck/blob/master/Screen%20Shot%202020-09-15%20at%209.59.45%20AM.png](https://github.com/kaisha2004/Dating-Shouldnt-Suck/blob/master/Screen%20Shot%202020-09-15%20at%209.59.45%20AM.png)
 
 <br>
 
